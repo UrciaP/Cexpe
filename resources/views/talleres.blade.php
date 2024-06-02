@@ -4,7 +4,7 @@
 
 
 @section('content')
-    <h2>Servicios</h2>
+    <h2>Talleres</h2>
     <ul>
         @if($talleres)
             @foreach ($talleres as $item)
